@@ -1,9 +1,7 @@
-# Amazone_Sales_Analysis_India
-Sales analysis project using Excel (Power Query) and Power BI on Amazone India dataset (Mar - Jun 2022)
-# Amazon Sales Analysis (India)
+# Amazone Sales Analysis (India)
 
 ## 📊 Project Overview
-This project analyzes Amazon sales data in India from March to June 2022.
+This project analyzes Amazone sales data in India from March to June 2022.
 
 ## 🛠 Tools Used
 - Excel (Power Query)
